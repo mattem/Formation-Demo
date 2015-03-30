@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@EnableFormation(basePackages={"me.mattm.formationdemo", "com.jarvis.formation"})
+@EnableFormation(basePackages={"me.mattm.formationdemo"})
 public class FormationDemoApplication {
 	 
 	public static void main(String[] args) {
