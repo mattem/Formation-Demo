@@ -1,5 +1,8 @@
-package me.mattm.formationdemo.domain;
+package me.mattem.formationdemo.domain;
 
+import me.mattem.formation.annotations.FormationInclude;
+
+@FormationInclude(name="DemoInterfaceImplOne")
 public class DemoInterfaceImplOne implements DemoInterface {
 	
 	private String name;

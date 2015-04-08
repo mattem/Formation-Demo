@@ -1,4 +1,4 @@
-package me.mattm.formationdemo.domain;
+package me.mattem.formationdemo.domain;
 
 public abstract class AbstractPojo {
 	private boolean isFound = true;

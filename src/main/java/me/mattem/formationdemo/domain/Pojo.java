@@ -1,4 +1,4 @@
-package me.mattm.formationdemo.domain;
+package me.mattem.formationdemo.domain;
 
 import java.util.List;
 import java.util.Map;
